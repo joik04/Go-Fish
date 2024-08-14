@@ -1,0 +1,55 @@
+Partner Names: Joi Kelly and Nerwys Aybar
+
+Game we will be designing: Go Fish Game 
+
+Do we need to know anymore information about the mechanics/rules of this game?
+If yes, where can we find this information?
+
+https://en.wikipedia.org/wiki/Go_Fish
+
+Each player gets seven cards. 
+Every turn each player will ask for a specific card.
+    If the other player has this card, they must give it to the player who asked
+    Else, the player has to go fish and pick a card from the  and add it to their hand
+The game will end when there are no more cards left in the deck. 
+The player with the most books wins. 
+A book is a collection of cards with the same face value. 
+
+Who will the user be playing against? This may be a dealer, other human players, or even an AI player or algorithm.
+
+The user will go against the computer. 
+
+What information needs to be shown to the user? This may include cards in their hand, cards on the table, how many cards are left in the deck, score information, etc.
+
+How to play the game and also the rules before starting the game. (This will be in the specification or README.)
+The user will need to see their given hand during their turn.
+
+How will the user select or play a move? How will the user "talk" to the program?
+
+We will use the input() function to allow the player to select their move and talk to the program.
+
+When does the game end? How does a player win?
+
+The game will end when the player with the most books wins and when there are no more cards in the deck. 
+
+Are there any ways you plan to add to your game to make it more interesting, such changes to the "default" rules of the game?
+
+Add more players and also more cards in the deck so the game can last longer. 
+
+Do you anticipate the need to create any new classes in addition to the ones given (Card, Suit, Rank)?
+
+Not right now for this game. 
+
+Are there any other complex data types you want a custom representation of?
+
+Not for this game. 
+
+Brainstorm a plan of the steps you will need to take to design you game!
+1. Make the cards have different symbols and numbers to represent how much value each card has. 
+2. Have the player make sure they have the same amount of cards as the other player. 
+3. Use different functions of code to create this game 
+
+
+
+
+
